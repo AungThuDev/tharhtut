@@ -4,3 +4,5 @@
   echo "third email from cli"
   echo "third email online"
   echo "fourth email online"
+  echo "fourth email cli"
+
